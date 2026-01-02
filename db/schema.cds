@@ -61,3 +61,4 @@ key code: String enum {
 
 type EMailAddress : String;
 type PhoneNumber : String;
+// Het test to make sure that CD/Ci is working
